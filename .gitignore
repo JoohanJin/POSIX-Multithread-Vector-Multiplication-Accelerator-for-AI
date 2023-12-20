@@ -1,0 +1,11 @@
+# ignore pdf file
+*.pdf
+
+# ignore executable
+*.out
+
+# ignore any directory
+*.[d]
+
+# ignore .vscode directory
+.vscode/
